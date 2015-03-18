@@ -5,6 +5,9 @@ useful for visualizing multiple angles of a number quickly.
 example commandline usage
 
 root@cpu: python3 get_numeric_info -v 5
+
+OR
+
 root@cpu: ./get_numeric_info -v 5
 
 
